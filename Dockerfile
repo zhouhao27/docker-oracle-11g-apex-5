@@ -1,6 +1,6 @@
 FROM ubuntu:14.04
 
-MAINTAINER Daniel Kacer <donaldinos@gmail.com>
+MAINTAINER Zhou Hao <zhou.hao.27@gmail.com>
 
 ENV PASSWORD secret
 
